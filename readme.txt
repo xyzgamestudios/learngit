@@ -7,3 +7,6 @@ Creating a new branch is quick.
 Test merge dev branch to master on dev branch.
 Creating a new branch is quick & simple.
 git merge is merge special branch to current branch.
+
+
+modify readme.txt file on dev branch.
